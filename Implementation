@@ -1,0 +1,17 @@
+Requirements – Recursive
+Program must ask the user to input two integers.
+Program must validate the user’s input are both valid integers.
+Program must take the two integers and add them together.
+Program must call a recursive function to add the integers together until a single digit integer is achieved.
+Program displays the final single digit integer once computation is achieved.
+
+Recursive Function
+If the input is a single integer, the function should return the single integer.
+If not, the input should be separated into the first half and last digit.
+The last digit must be added to the first half of the integer.
+Process loops through until a single digit integer is achieved.
+
+Assumptions
+Program will only accept non-negative whole integers.
+
+E00514497
